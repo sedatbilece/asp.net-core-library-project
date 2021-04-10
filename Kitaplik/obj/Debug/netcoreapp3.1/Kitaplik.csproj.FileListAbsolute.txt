@@ -1,0 +1,226 @@
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.exe
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.deps.json
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.runtimeconfig.json
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.runtimeconfig.dev.json
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.pdb
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.Views.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.Views.pdb
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.csprojAssemblyReference.cache
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.AssemblyInfoInputs.cache
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.AssemblyInfo.cs
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.RazorAssemblyInfo.cache
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.RazorAssemblyInfo.cs
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\staticwebassets\Kitaplik.StaticWebAssets.Manifest.cache
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\staticwebassets\Kitaplik.StaticWebAssets.xml
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\scopedcss\bundle\Kitaplik.styles.css
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.TagHelpers.input.cache
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.TagHelpers.output.cache
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.RazorCoreGenerate.cache
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.RazorTargetAssemblyInfo.cache
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.RazorTargetAssemblyInfo.cs
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.Views.pdb
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.dll
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.pdb
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.genruntimeconfig.cache
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.csproj.CopyComplete
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Home\View.cshtml.g.cs
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\YeniKitaplar\Default.cshtml.g.cs
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Home\Deneme.cshtml.g.cs
+C:\Users\sedat\source\repos\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Home\StaticTema.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.exe
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.deps.json
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.runtimeconfig.json
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.runtimeconfig.dev.json
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.pdb
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.Views.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Kitaplik.Views.pdb
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.csprojAssemblyReference.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.AssemblyInfoInputs.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.AssemblyInfo.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.csproj.CoreCompileInputs.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.RazorAssemblyInfo.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.RazorAssemblyInfo.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\staticwebassets\Kitaplik.StaticWebAssets.Manifest.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\staticwebassets\Kitaplik.StaticWebAssets.xml
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\scopedcss\bundle\Kitaplik.styles.css
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.TagHelpers.input.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.TagHelpers.output.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.RazorCoreGenerate.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Home\Deneme.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Home\StaticTema.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Home\View.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\YeniKitaplar\Default.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.RazorTargetAssemblyInfo.cache
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.RazorTargetAssemblyInfo.cs
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.Views.pdb
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.csproj.CopyComplete
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.dll
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.pdb
+C:\Users\sedat\Desktop\SoftWare Archives\Asp.Net\Asp.Net Core MVC projeler\Kitaplik\obj\Debug\netcoreapp3.1\Kitaplik.genruntimeconfig.cache
